@@ -22,6 +22,12 @@ The report consists of two main dashboards:
 * **Power Query:** For data cleaning and transformation.
 * **DAX (Data Analysis Expressions):** For creating calculated measures and KPIs.
 
+## 🎥 Project Video Demo
+You can download and watch the full dashboard walkthrough here:
+
+📦 [Download Pizza Sales Analysis Video Demo](https://github.com/Mohamedshaltoot/Pizza-Sales-Performance-Analysis/files/26325671/Pizza.Video.zip)
+
+---
 ## 🖼️ Screenshots
 ### 1. Sales Overview
 ![Sales Overview](OVERVIEW.png)
