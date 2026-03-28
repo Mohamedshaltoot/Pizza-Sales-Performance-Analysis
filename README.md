@@ -21,9 +21,11 @@ The report consists of two main dashboards:
 * **Power BI Desktop:** For data modeling and visualization.
 * **Power Query:** For data cleaning and transformation.
 * **DAX (Data Analysis Expressions):** For creating calculated measures and KPIs.
+ ---
+  ## 🎥 Project Video Demo
+Watch the interactive dashboard in action:
 
-## 🎥 Project Video Demo
-   https://github.com/user-attachments/assets/4e0909bd-a97c-4a22-a7a3-bfffff340193
+https://github.com/user-attachments/assets/4e0909bd-a97c-4a22-a7a3-bfffff340193
 ---
 ## 🖼️ Screenshots
 ### 1. Sales Overview
