@@ -26,7 +26,7 @@ The report consists of two main dashboards:
 
 ## 🎥 Project Video Demo
 
-https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
+https://github.com/user-attachments/assets/cf5b5f7b-4c6e-4460-be56-8b19e3893ce2
 
 ---
 
