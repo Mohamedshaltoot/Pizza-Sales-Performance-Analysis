@@ -23,9 +23,7 @@ The report consists of two main dashboards:
 * **DAX (Data Analysis Expressions):** For creating calculated measures and KPIs.
 
 ## 🎥 Project Video Demo
-You can download and watch the full dashboard walkthrough here:
-
-📦 [Download Pizza Sales Analysis Video Demo](https://github.com/user-attachments/assets/8df4fafd-8ae9-4fbd-8b48-365e4c7f43e4)
+https://github.com/user-attachments/assets/8df4fafd-8ae9-4fbd-8b48-365e4c7f43e4
 ---
 ## 🖼️ Screenshots
 ### 1. Sales Overview
