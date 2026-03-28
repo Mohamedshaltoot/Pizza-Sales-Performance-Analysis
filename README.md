@@ -23,7 +23,7 @@ The report consists of two main dashboards:
 * **DAX (Data Analysis Expressions):** For creating calculated measures and KPIs.
  ---
   ## 🎥 Project Video Demo
-https://github.com/user-attachments/assets/4e0909bd-a97c-4a22-a7a3-bfffff340193
+https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
 ---
 ## 🖼️ Screenshots
 ### 1. Sales Overview
