@@ -25,8 +25,7 @@ The report consists of two main dashboards:
 ## 🎥 Project Video Demo
 You can download and watch the full dashboard walkthrough here:
 
-📦 [Download Pizza Sales Analysis Video Demo](https://github.com/Mohamedshaltoot/Pizza-Sales-Performance-Analysis/files/26325671/Pizza.Video.zip)
-
+📦 [Download Pizza Sales Analysis Video Demo](https://github.com/user-attachments/assets/8df4fafd-8ae9-4fbd-8b48-365e4c7f43e4)
 ---
 ## 🖼️ Screenshots
 ### 1. Sales Overview
