@@ -1,4 +1,4 @@
-#  Pizza Sales Analysis Dashboard (Power BI)
+# 🍕 Pizza Sales Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
 This project provides a comprehensive analysis of pizza sales data for **Pickle Pizza** over the year 2015. The goal is to identify sales trends, customer preferences, and product performance to drive data-driven business decisions.
@@ -21,10 +21,15 @@ The report consists of two main dashboards:
 * **Power BI Desktop:** For data modeling and visualization.
 * **Power Query:** For data cleaning and transformation.
 * **DAX (Data Analysis Expressions):** For creating calculated measures and KPIs.
- ---
-  ## 🎥 Project Video Demo
-https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
+
 ---
+
+## 🎥 Project Video Demo
+
+https://github.com/user-attachments/assets/095dca59-2ec2-46e1-ae38-f8e5496d0bb3
+
+---
+
 ## 🖼️ Screenshots
 ### 1. Sales Overview
 ![Sales Overview](OVERVIEW.png)
