@@ -44,3 +44,6 @@ https://github.com/user-attachments/assets/cf5b5f7b-4c6e-4460-be56-8b19e3893ce2
 
 ---
 **Developed by:** Eng. Mohamed Edris
+[LinkedIn Profile](https://www.linkedin.com/in/mohamed-edris-mohamed-ali-ba261b212)
+
+
