@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/cf5b5f7b-4c6e-4460-be56-8b19e3893ce2
 <img width="1405" height="800" alt="Image" src="https://github.com/user-attachments/assets/57b88bc4-2bb0-4f2e-9aa4-f8c54424f02c" />
 
 ### 2. Product Performance
-![Product Performance](Product%20performance.png)
+<img width="1398" height="801" alt="Image" src="https://github.com/user-attachments/assets/daef1c6e-706c-4786-90be-24efb764431e" />
 
 ## 📝 How to Use
 1. Download the `.pbix` file from this repository.
