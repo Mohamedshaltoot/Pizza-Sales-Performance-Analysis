@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/cf5b5f7b-4c6e-4460-be56-8b19e3893ce2
 
 ## 🖼️ Screenshots
 ### 1. Sales Overview
-![Sales Overview](OVERVIEW.png)
+"C:\Users\Shalt\Desktop\MY PROJECTS\PIZZA Project\OVERVIEW.png"
 
 ### 2. Product Performance
 ![Product Performance](Product%20performance.png)
